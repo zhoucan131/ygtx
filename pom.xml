@@ -32,7 +32,7 @@
       <redis.spring.version>1.7.1.RELEASE</redis.spring.version>
 
       <!-- shiro -->
-      <shiro-version>1.2.5</shiro-version>
+      <shiro-version>1.8.0</shiro-version>
   </properties>
 
   <dependencies>
